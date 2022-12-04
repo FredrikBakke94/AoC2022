@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="readFile.fsx" />
+    <Compile Include="day4.fsx" />
+    <Compile Include="day3.fsx" />
+    <Compile Include="day2.fsx" />
+    <Compile Include="day1.fsx" />
+    <Compile Include="pigLatin.fsx" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+</Project>
