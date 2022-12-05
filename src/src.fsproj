@@ -5,6 +5,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="readFile.fsx" />
+    <Compile Include="day5.fsx" />
     <Compile Include="day4.fsx" />
     <Compile Include="day3.fsx" />
     <Compile Include="day2.fsx" />
