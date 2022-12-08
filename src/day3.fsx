@@ -1,3 +1,5 @@
+module Day3
+
 open ReadFile
 
 let prioMap = [ 'a' .. 'z' ] @ [ 'A' .. 'Z' ]

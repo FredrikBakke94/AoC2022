@@ -1,3 +1,5 @@
+module Day2
+
 [<Literal>]
 let OpponentRock = "A"
 

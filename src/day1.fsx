@@ -1,3 +1,5 @@
+module Day1
+
 open System.IO
 
 let readLines (filePath: string) =
